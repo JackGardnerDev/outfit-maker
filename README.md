@@ -1,2 +1,2 @@
-# outfit-maker
-Outfit Maker - HTML, CSS, JS
+# Default-Website-Skeleton
+Default Website Skeleton Files - HTML, CSS, JS
